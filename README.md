@@ -26,7 +26,7 @@ git clone git@github.com:guopengf/Auto-FedRL.git
 ```bash
 cd Auto-FedRL
 conda env create -f conda_environment.yml
-conda activate recon
+conda activate flpt14
 ```
 
 ## Train Auto-FedRL
