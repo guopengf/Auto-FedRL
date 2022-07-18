@@ -49,12 +49,6 @@ The commands related to hyperprameter search:
 --search_slr 'enable server learning rate search'
 ```
 
-## More Experiments
-
-Experiments on two multi-institutional medical datasets 
-([MONAI](https://github.com/Project-MONAI/MONAI) 
-and [NVFlare](https://github.com/NVIDIA/NVFlare) implementation) will be released on the corresponding GitHub Repo.
-
 # Ackonwledgements
 
 This code-base uses certain code-blocks and helper functions from [FedMA](https://github.com/IBM/FedMA), 
