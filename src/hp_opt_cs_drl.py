@@ -70,7 +70,7 @@ class learnable_highd_gaussian_continuous(nn.Module):
         self.mean.data.copy_(torch.clamp(self.mean.data,-1.0,1.0))
 
         dist = MultivariateNormal(loc=self.mean,
-                                  precision_matrix=self.precision_component @ self.precision_component.transpose(1, 0))
+                                  precision_matrix=self.precision_component)
         sample = dist.sample()
         logprob = dist.log_prob(sample)
         sample = sample * self.vals_scale + self.vals_center
