@@ -1,7 +1,6 @@
 # Auto-FedRL
 
-Experimental Pytorch Code for the paper ["Multi-institutional Collaborations for Improving Deep Learning-based Magnetic
-Resonance Image Reconstruction Using Federated Learning"](https://arxiv.org/abs/2203.06338) (ECCV 2022) 
+Experimental Pytorch Code for the paper ["Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation"](https://arxiv.org/abs/2203.06338) (ECCV 2022) 
 
 ## Note: Integration with [NVFlare](https://github.com/NVIDIA/NVFlare) will come soon!
 
