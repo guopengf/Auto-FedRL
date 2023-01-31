@@ -8,7 +8,6 @@ import math
 import random
 from helpers.utils import get_dataloader, get_train_dataset
 import copy
-import torch_optimizer as optim
 import torch.nn.functional as F
 
 ### Moderate size of CNN for CIFAR-10 dataset
