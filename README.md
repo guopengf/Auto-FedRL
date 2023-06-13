@@ -2,7 +2,7 @@
 
 Experimental Pytorch Code for the paper ["Auto-FedRL: Federated Hyperparameter Optimization for Multi-institutional Medical Image Segmentation"](https://arxiv.org/abs/2203.06338) (ECCV 2022) 
 
-## Note: Integration with [NVFlare](https://github.com/NVIDIA/NVFlare) will come soon!
+## Note: Integration with [NVFlare](https://github.com/NVIDIA/NVFlare) is available [here](https://github.com/NVIDIA/NVFlare/tree/dev/research/auto-fed-rl)!
 
 # Requirements
 
